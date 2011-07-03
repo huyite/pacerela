@@ -1,0 +1,12 @@
+.
+src
+src/util
+src/swing
+src/graph
+src/collections
+bin
+bin/util
+bin/swing
+bin/graph
+bin/collections
+C:\Program Files\Objective Caml\lib
